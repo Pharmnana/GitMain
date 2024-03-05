@@ -3,3 +3,4 @@ My name is Nancy
 Git is fun
 This is a study group
 We are currently learning Git and Devops
+Acada Learning is very detailed
