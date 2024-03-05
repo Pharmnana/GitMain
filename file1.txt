@@ -2,4 +2,4 @@ Hello Team ABC
 My name is Nancy
 Git is fun
 This is a study group
-We are currently learning Git
+We are currently learning Git and Devops
